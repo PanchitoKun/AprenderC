@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PanchitoKUN\\Desktop\\c#\\pasos1\\clase1\\clase1\\clase1.csproj",
+      "projectUniqueName": "C:\\Users\\PanchitoKUN\\Desktop\\c#\\pasos1\\AprenderC\\clase1\\clase1\\clase1.csproj",
       "projectName": "clase1",
-      "projectPath": "C:\\Users\\PanchitoKUN\\Desktop\\c#\\pasos1\\clase1\\clase1\\clase1.csproj",
+      "projectPath": "C:\\Users\\PanchitoKUN\\Desktop\\c#\\pasos1\\AprenderC\\clase1\\clase1\\clase1.csproj",
       "packagesPath": "C:\\Users\\PanchitoKUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PanchitoKUN\\Desktop\\c#\\pasos1\\clase1\\clase1\\obj\\",
+      "outputPath": "C:\\Users\\PanchitoKUN\\Desktop\\c#\\pasos1\\AprenderC\\clase1\\clase1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PanchitoKUN\\AppData\\Roaming\\NuGet\\NuGet.Config",

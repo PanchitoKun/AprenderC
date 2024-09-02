@@ -1,10 +1,13 @@
 ﻿
-float N
+float Numero = 3.12;
+float Numero2 = 15,2;  
 
 
 
-public f Soy_primer()
+public float Soy_primer(Numero numero)
 {
+    float soy_Ambos = numero + Numero; 
+    return soy_Ambos;
 
 }
 
